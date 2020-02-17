@@ -1,0 +1,35 @@
+{
+  "name": "gameoftanks",
+  "version": "1.0.0",
+  "description": "RESTful server for Game Of Tanks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "przemek mikulski",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.5",
+    "express-session": "^1.15.6",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "mongoose": "^4.11.13",
+    "passport": "^0.4.0",
+    "queue-fifo": "^0.2.3",
+    "util": "^0.10.3",
+    "uuid": "^3.1.0"
+  }
+}

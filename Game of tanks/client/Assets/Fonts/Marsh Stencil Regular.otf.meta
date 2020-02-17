@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5b1d86c5c98b94e4b8cca822e3c16bad
+timeCreated: 1511188918
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marsh
+  fontNames:
+  - Marsh
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
